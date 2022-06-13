@@ -1,0 +1,27 @@
+p.red {
+    color: red;
+    font-size: 20px;
+  }
+
+  .important {
+    color: green;
+    font-style: italic;
+  }
+
+  #article-title {
+    font-family: Georgia, serif;
+    color: #1050ff;
+  }
+
+  #box2 {
+    display: inline-block;
+    background-color: #39CCCC;
+    width: 100px;
+    height: 70px;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+    border-top: 8px solid #1e4c7a;
+    margin-left: 15px;
+    margin-top: 15px;
+  }
